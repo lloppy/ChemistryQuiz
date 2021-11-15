@@ -1,2 +1,2 @@
-# chemistry-Kotlin-quiz
+# Chemistry Kotlin quiz
 Kotlin quiz app for Marina Pavlovna
