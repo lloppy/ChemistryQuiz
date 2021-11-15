@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Химическая Полина</string>
+    <string name="AppTitle">Химическая викторина</string>
+    <string name="txtWelcome">Добро пожаловать!</string>
+    <string name="txEnterName">Введите свое имя</string>
+    <string name="hintEnterName">Введите имя</string>
+    <string name="txtStart">Начать</string>
+    <string name="txtSubmit">Отправить</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="progressText">0/15</string>
+    <string name="result_text">Результат</string>
+    <string name="result_button_text">Сбросить и продолжить </string>
+    <string name="CongratulationsText">Ураааа\nПоздравляю!! </string>
+    <string name="usernmae">Имя </string>
+    <string name="score">Ваш рекорд 3 из 15 вопросов. </string>
+</resources>
